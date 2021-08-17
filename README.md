@@ -3,7 +3,7 @@
 # Assignment
 [Design](https://pokernews.box.com/s/5eralio5byxs2dj24ez49est8hbie8p5)
 
-Based on the attached screenshot make a simple carousel application using API — https://retoolapi.dev/4O1Fwx/casinos
+Based on the attached screenshot make a simple carousel application using API — https://retoolapi.dev/RrRljN/casinos
 
 # Things to know:
 * We haven’t included a design work file (xd, figma, psd) for a reason. We believe that pixel-perfect implementation can only be achieved by understanding the design process and not by reading specifications available in work files
