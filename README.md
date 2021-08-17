@@ -11,7 +11,7 @@ Based on the attached screenshot make a simple carousel application using API â€
 
 # Requirements:
 * Design should be recreated as closely as possible
-* Responsive design (with at least three breakpoints â€” Desktop, Tablet, Phone)
+* Responsive design
 * Working tab navigation and carousel
 * The code should be well-formatted and semantically valid. Use one of the following guides: https://github.com/airbnb/javascript and http://mdo.github.io/code-guide/
 * Share result in git
