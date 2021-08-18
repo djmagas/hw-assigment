@@ -17,6 +17,6 @@ Based on the attached screenshot make a simple carousel application using API â€
 * Share result in git
 
 # Bonus points for:
-* Lazy-loading images
+* No CSS frameworks
 * Using only Vanilla JS
 
